@@ -6,7 +6,9 @@ RSpec.describe Livro do
       usuario: 'Carlos',
       nome: 'Ruby on Rails',
       isbn: '123',
-      status: 'Em estante'
+      status: 'Em estante',
+      autor: 'Monteiro Lobato',
+      ano: '1999'
     )
 
     expect(livro.nome).to eq('Ruby on Rails')
