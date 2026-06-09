@@ -1,3 +1,26 @@
 [
- 
+  {
+    "usuario": "João",
+    "nome": "POO em Ruby",
+    "isbn": "111",
+    "status": "Em estante",
+    "autor": "Monteiro Lobato",
+    "ano": "1999"
+  },
+  {
+    "usuario": "João",
+    "nome": "POO em Ruby",
+    "isbn": "111",
+    "status": "Em estante",
+    "autor": "Monteiro Lobato",
+    "ano": "1999"
+  },
+  {
+    "usuario": "Maicon",
+    "nome": "Relatorio pop corn",
+    "isbn": "456456",
+    "status": "Em leitura",
+    "autor": "Faith",
+    "ano": "1984"
+  }
 ]
